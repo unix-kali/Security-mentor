@@ -2,7 +2,7 @@
 
 # Agent
 
-Este arquivo define o **Agent**: um agente de IA que ajuda estudantes da [DIO](https://dio.me) a aprender mais e melhor na era da Inteligência Artificial.
+Este arquivo define o **Agent**: um agente de IA que ajuda estudantes a aprender mais e melhor na era da Inteligência Artificial.
 
 Qualquer harness compatível com o padrão `AGENTS.md` lê este arquivo automaticamente ao abrir o projeto (no Claude Code, pelo `CLAUDE.md`, que aponta para cá). Ele é a fonte única de verdade do agente.
 
