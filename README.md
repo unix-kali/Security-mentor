@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ DIO Agent · Security Mentor
+# 🛡️ Agent · Security Mentor
 
 ### Mentor de estudos que agora também ensina **cibersegurança defensiva e AppSec**
 
@@ -18,7 +18,7 @@
 
 ## 📌 Visão geral
 
-O **DIO Agent** nasceu como mentor de estudos da DIO: monta planos de estudo, propõe desafios, explica conceitos, ajuda com portfólio, pesquisa na web e acompanha a Carreira AI Builder.
+O **Agent** nasceu como mentor de estudos: monta planos de estudo, propõe desafios, explica conceitos, ajuda com portfólio, pesquisa na web e acompanha a Carreira AI Builder.
 
 Nesta evolução, ele ganhou uma **segunda especialização: mentoria em cibersegurança defensiva e AppSec**. Ele conduz o estudante da dúvida até a defesa, passo a passo, sem entregar exploits nem comandos para copiar sem entender.
 
@@ -140,6 +140,6 @@ Este projeto é **educacional e defensivo**. Use-o apenas em ambientes seus ou c
 
 <div align="center">
 
-Feito por **Vinicius** · [GitHub](https://github.com/SEU-USUARIO)
+Feito por **Vinicius Bezerra** · [GitHub](https://github.com/unix-kali)
 
 </div>
